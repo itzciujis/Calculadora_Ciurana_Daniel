@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conversor de unidades</string>
+    <string name="titulo">Conversor de unidades</string>
+    <string name="hint_valor">Introduce el valor a convertir</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="resultado_inicial">El resultado aparecerá aquí</string>
+
+    <string-array name="tipos_conversion">
+        <item>Kilómetros → Millas</item>
+        <item>Millas → Kilómetros</item>
+        <item>Celsius → Fahrenheit</item>
+        <item>Fahrenheit → Celsius</item>
+        <item>Kilos → Libras</item>
+        <item>Libras → Kilos</item>
+    </string-array>
+</resources>
